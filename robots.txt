@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeoman326.github.io/chungryeok-homepage/sitemap.xml
